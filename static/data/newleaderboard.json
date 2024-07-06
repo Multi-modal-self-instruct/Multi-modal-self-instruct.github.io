@@ -1,0 +1,184 @@
+  [
+    {
+      "name": "Claude-3.5-Sonnet",
+      "scores": {
+        "Chart": 67.24,
+        "Table": 84.38,
+        "Road Map": 59.24,
+        "Dashboard": 54.00,
+        "Relation Graph": 58.52,
+        "Flowchart": 49.21,
+        "Visual Puzzles": 62.38,
+        "Layout": 82.94,
+        "Avg.": 64.74
+      }
+    },
+    {
+      "name": "GPT-4o",
+      "scores": {
+        "Chart": 61.83,
+        "Table": 88.76,
+        "Road Map": 37.82,
+        "Dashboard": 54.79,
+        "Relation Graph": 54.50,
+        "Flowchart": 54.31,
+        "Visual Puzzles": 45.37,
+        "Layout": 82.54,
+        "Avg.": 59.99
+      }
+    },
+    {
+      "name": "Claude-3-Sonnet",
+      "scores": {
+        "Chart": 46.4,
+        "Table": 68.4,
+        "Road Map": 38.3,
+        "Dashboard": 35.4,
+        "Relation Graph": 56.2,
+        "Flowchart": 40.3,
+        "Visual Puzzles": 47.0,
+        "Layout": 69.1,
+        "Avg.": 50.1
+      }
+    },
+    {
+      "name": "GPT-4V-1106",
+      "scores": {
+        "Chart": 50.6,
+        "Table": 75.8,
+        "Road Map": 23.3,
+        "Dashboard": 36.2,
+        "Relation Graph": 52.4,
+        "Flowchart": 45.3,
+        "Visual Puzzles": 35.9,
+        "Layout": 76.6,
+        "Avg.": 49.5
+      }
+    },
+    {
+      "name": "Claude-3-Opus",
+      "scores": {
+        "Chart": 46.73,
+        "Table": 67.71,
+        "Road Map": 38.26,
+        "Dashboard": 38.70,
+        "Relation Graph": 48.78,
+        "Flowchart": 35.77,
+        "Visual Puzzles": 47.26,
+        "Layout": 65.48,
+        "Avg.": 48.59
+      }
+    },
+    {
+      "name": "Claude-3-Haiku",
+      "scores": {
+        "Chart": 41.83,
+        "Table": 57.33,
+        "Road Map": 23.17,
+        "Dashboard": 35.83,
+        "Relation Graph": 45.99,
+        "Flowchart": 23.09,
+        "Visual Puzzles": 45.94,
+        "Layout": 58.73,
+        "Avg.": 41.49
+      }
+    },
+    {
+      "name": "Gemini-1.5-Flash",
+      "scores": {
+        "Chart": 43.61,
+        "Table": 64.06,
+        "Road Map": 3.71,
+        "Dashboard": 39.04,
+        "Relation Graph": 42.09,
+        "Flowchart": 36.03,
+        "Visual Puzzles": 30.81,
+        "Layout": 69.72,
+        "Avg.": 41.13
+      }
+    },
+    {
+      "name": "Gemini-Pro-Vision",
+      "scores": {
+        "Chart": 43.11,
+        "Table": 64.92,
+        "Road Map": 3.76,
+        "Dashboard": 38.87,
+        "Relation Graph": 41.12,
+        "Flowchart": 36.09,
+        "Visual Puzzles": 29.68,
+        "Layout": 70.12,
+        "Avg.": 40.96
+      }
+    },
+    {
+      "name": "Gemini-1.5-Pro",
+      "scores": {
+        "Chart": 43.41,
+        "Table": 63.78,
+        "Road Map": 3.77,
+        "Dashboard": 38.71,
+        "Relation Graph": 41.85,
+        "Flowchart": 35.55,
+        "Visual Puzzles": 30.62,
+        "Layout": 69.32,
+        "Avg.": 40.88
+      }
+    },
+    {
+      "name": "Qwen-VL-Plus",
+      "scores": {
+        "Chart": 40.1,
+        "Table": 51.6,
+        "Road Map": 18.6,
+        "Dashboard": 26.4,
+        "Relation Graph": 52.2,
+        "Flowchart": 32.5,
+        "Visual Puzzles": 32.3,
+        "Layout": 61.5,
+        "Avg.": 39.4
+      }
+    },
+    {
+      "name": "Deepseek-VL-Chat-7B",
+      "scores": {
+        "Chart": 25.2,
+        "Table": 31.1,
+        "Road Map": 18.8,
+        "Dashboard": 18.2,
+        "Relation Graph": 37.6,
+        "Flowchart": 20.8,
+        "Visual Puzzles": 15.0,
+        "Layout": 47.2,
+        "Avg.": 26.7
+      }
+    },
+    {
+      "name": "Vanilla Llava-1.5-7B",
+      "scores": {
+        "Chart": 10.5,
+        "Table": 15.8,
+        "Road Map": 0.3,
+        "Dashboard": 16.5,
+        "Relation Graph": 29.6,
+        "Flowchart": 9.6,
+        "Visual Puzzles": 3.4,
+        "Layout": 37.7,
+        "Avg.": 15.4
+      }
+    },
+    {
+      "name": "Llava-our-62k",
+      "scores": {
+        "Chart": 30.3,
+        "Table": 51.8,
+        "Road Map": 67.7,
+        "Dashboard": 16.5,
+        "Relation Graph": 30.1,
+        "Flowchart": 12.3,
+        "Visual Puzzles": 3.6,
+        "Layout": 44.1,
+        "Avg.": 32.0
+      }
+    }
+  ]

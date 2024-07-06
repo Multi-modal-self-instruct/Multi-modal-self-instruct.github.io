@@ -1,0 +1,87 @@
+    [
+      {
+        "name": "GPT-4Vision-1106",
+        "scores": {
+          "Chart": 50.6,
+          "Table": 75.8,
+          "Road Map": 23.3,
+          "Dashboard": 36.2,
+          "Relation Graph": 52.4,
+          "Flowchart": 45.3,
+          "Visual Puzzles": 35.9,
+          "Layout": 76.6,
+          "Avg": 49.5
+        }
+      },
+      {
+        "name": "Claude-3-Sonnet",
+        "scores": {
+          "Chart": 46.4,
+          "Table": 68.4,
+          "Road Map": 38.3,
+          "Dashboard": 35.4,
+          "Relation Graph": 56.2,
+          "Flowchart": 40.3,
+          "Visual Puzzles": 47.0,
+          "Layout": 69.1,
+          "Avg": 50.1
+        }
+      },
+      {
+        "name": "Qwen-VL-Plus",
+        "scores": {
+          "Chart": 40.1,
+          "Table": 51.6,
+          "Road Map": 18.6,
+          "Dashboard": 26.4,
+          "Relation Graph": 52.2,
+          "Flowchart": 32.3,
+          "Visual Puzzles": 32.3,
+          "Layout": 61.5,
+          "Avg": 39.4
+        }
+      },
+      {
+        "name": "Deepseek-VL-Chat-7B",
+        "scores": {
+          "Chart": 25.2,
+          "Table": 31.1,
+          "Road Map": 18.8,
+          "Dashboard": 18.2,
+          "Relation Graph": 37.6,
+          "Flowchart": 20.8,
+          "Visual Puzzles": 15.0,
+          "Layout": 47.2,
+          "Avg": 26.7
+        }
+      },
+      {
+        "name": "Vanilla Llama-1.5-7B",
+        "scores": {
+          "Chart": 10.5,
+          "Table": 15.8,
+          "Road Map": 0.3,
+          "Dashboard": 16.4,
+          "Relation Graph": 29.6,
+          "Flowchart": 9.6,
+          "Visual Puzzles": 3.4,
+          "Layout": 37.7,
+          "Avg": 15.4
+        }
+      },
+      {
+        "name": "Llava-our-62k",
+        "scores": {
+          "Chart": 30.3,
+          "Table": 51.8,
+          "Road Map": 67.7,
+          "Dashboard": 16.5,
+          "Relation Graph": 30.1,
+          "Flowchart": 12.3,
+          "Visual Puzzles": 3.6,
+          "Layout": 44.1,
+          "Avg": 32.0
+        }
+      }
+    ]
+    

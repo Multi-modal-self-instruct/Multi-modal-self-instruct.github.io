@@ -1,0 +1,46 @@
+.myslider {
+  position: relative;
+  width: 600px;
+  overflow: hidden;
+}
+
+.myslides {
+  display: flex;
+  width: calc(300%);
+  transition: transform 0.5s ease;
+}
+
+.myslides img {
+  width: 100%;
+  display: block;
+}
+
+.left-allign {
+  text-align: left !important
+}
+
+.images_container_vertical {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.images_container_horizontal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.images_container_horizontal > * {
+  flex: 1;
+  margin: 0 8px;
+}
+.images_container_horizontal2 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.images_container_horizontal3 {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
