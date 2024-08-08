@@ -56,6 +56,20 @@
       }
     },
     {
+      "name": "GPT-4o-mini",
+      "scores": {
+        "Chart": 48.7,
+        "Table": 77.4,
+        "Road Map": 26.7,
+        "Dashboard": 46.3,
+        "Relation Graph": 51.1,
+        "Flowchart": 42.5,
+        "Visual Puzzles": 30.8,
+        "Layout": 75.8,
+        "Avg.": 49.5
+      }
+    },
+    {
       "name": "Claude-3-Opus",
       "scores": {
         "Chart": 46.73,
@@ -67,6 +81,20 @@
         "Visual Puzzles": 47.26,
         "Layout": 65.48,
         "Avg.": 48.59
+      }
+    },
+    {
+      "name": "Internvl-2-8b",
+      "scores": {
+        "Chart": 50.3,
+        "Table": 73.9,
+        "Road Map": 27.9,
+        "Dashboard": 28.9,
+        "Relation Graph": 61.3,
+        "Flowchart": 41.2,
+        "Visual Puzzles": 23.4,
+        "Layout": 66.6,
+        "Avg.": 46.7
       }
     },
     {
@@ -95,6 +123,20 @@
         "Visual Puzzles": 30.81,
         "Layout": 69.72,
         "Avg.": 41.13
+      }
+    },
+    {
+      "name": "glm-4v-9b",
+      "scores": {
+        "Chart": 47.8,
+        "Table": 70.9,
+        "Road Map": 4.4,
+        "Dashboard": 34.3,
+        "Relation Graph": 47.0,
+        "Flowchart": 39.3,
+        "Visual Puzzles": 20.2,
+        "Layout": 63.8	,
+        "Avg.": 41.0
       }
     },
     {
